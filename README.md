@@ -11,4 +11,4 @@ A simple recipe website built with HTML.
 - Lists (ul, ol)
 
 ## Live Demo
-[Click here](https://github.com/Agalya141/odin-recipes.git)
+[Click here](https://agalya141.github.io/odin-recipes/)
